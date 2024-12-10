@@ -1,10 +1,10 @@
 # Spy device: playback of sound in the room by HDD vibration
 
 ## Authors
-- (Maksym Buleshnyi)[https://github.com/maksDev123]
-- (Mykhailo Buleshnyi)[https://github.com/mikl123]
-- (Artur Pelcharskyi)[https://github.com/PelArtur]
-- (Yuliia Moliashcha)[https://github.com/bulkobubulko]
+- [Maksym Buleshnyi](https://github.com/maksDev123)
+- [Mykhailo Buleshnyi](https://github.com/mikl123)
+- [Artur Pelcharskyi](https://github.com/PelArtur)
+- [Yuliia Moliashcha](https://github.com/bulkobubulko)
 
 ## Project Overview
 
