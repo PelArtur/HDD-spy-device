@@ -20,7 +20,7 @@ def parse_pes_values(binary_content):
             pes_values.append(pes_value)
     return pes_values
 
-def write_pes_values(pes_values, filename="pes_values.txt"):
+def write_pes_values(pes_values, filename="./pes/data/pes_values.txt"):
     with open(filename, "w") as file:
         for item in pes_values:
             file.write(str(item) + "\n")
